@@ -9,4 +9,5 @@ The numbers at the bottom are the angles of the mentioned points, whilst the 2nd
 The probability is calculated by multiplying the 3 relevant points' probability needed to calculate the angle (please refer to my angle calculator function in my "usefull functions" repository on github).
 
 
+
 ![alt-text](https://github.com/DLesas/Preview_of_EPA/blob/master/EPA%20preview.gif)
