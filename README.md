@@ -1,7 +1,7 @@
 # Preview of EPA  
 
 Preview of the work I have been doing for EPA without disclosing any code.  
-Please note this is a prototype version of the final product and not the final finished product (as denoted by the unfinished side banner and plot going the wrong way :laughing:).  
+Please note this is a prototype version of the final product and not the final finished product (as denoted by the unfinished side banner and plot going the wrong way).  
 I'm not showing the final refined product for obvious reasons.
 
 The numbers at the bottom are the angles of the mentioned points, whilst the 2nd number in brackets is the probability (a 1 being the highest) of the angle predicted being 100% accurate (machine learning models & 100% accuracy does not exist as the machine is only making a guess at every instance, this is the same for any machine learning model)
